@@ -45,7 +45,7 @@ alert( result );
 The National University of Science and Technology “Moscow Institute of State and Steel”
 ### Courses:
 * JavaScript - [learn.javascript.ru](https://learn.javascript.ru/) 
-* React developer - [htmlacademy.ru](https://htmlacademy.ru/profession/react) 
+* React developer profession - [htmlacademy.ru](https://htmlacademy.ru/profession/react) 
 * Coursera, Udemy
 
 ## Languages:
