@@ -33,6 +33,7 @@ alert( result );
 ### Learning projects:
 1.	[What to Watch](https://github.com/frenby52/973763-what-to-watch-3) (React/Redux; TypeScript)
 2.	[Cinemaddict](https://github.com/frenby52/973763-cinemaddict-10) (JavaScript (ES6+));
+
 ### Test projects:
 1.	[Takeoff](https://github.com/frenby52/Takeoff-staff) (React/Redux; json-server)
 2.	[RooX](https://github.com/frenby52/RooX) (React/Redux; TypeScript)
