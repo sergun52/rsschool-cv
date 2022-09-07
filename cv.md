@@ -47,7 +47,7 @@ The National University of Science and Technology “Moscow Institute of State a
 * JavaScript - [learn.javascript.ru](https://learn.javascript.ru/) 
 * React developer - [htmlacademy.ru](https://htmlacademy.ru/profession/react) 
 * Coursera, Udemy
----
+
 ## Languages:
 * English - Intermediate/Upper-intermediate (English gymnasium)
 * Russian - Native
